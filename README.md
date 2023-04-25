@@ -1,6 +1,13 @@
 # StudentPanel
 A student panel that allows pulling and using student information over the database
 
+Overview:
+
+
+![image](https://user-images.githubusercontent.com/103072957/234379465-a7123081-dc2c-4252-ac74-41848e24808b.png)
+
+
+
 Database info's:
 
 
