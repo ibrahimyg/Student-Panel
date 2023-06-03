@@ -1,5 +1,5 @@
 # StudentPanel
-A student panel that allows manipulation of student information over the database
+Student panel that allows manipulation of student information over the database
 
 Overview:
 
